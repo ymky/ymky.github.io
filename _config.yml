@@ -220,6 +220,15 @@ lang: zh
 lang: zh-CN
 lang: zh-SG
 
+---
+layout: articles
+title: Articles - Brief (Info)
+articles:
+  data_source: site.sample_page
+  type: brief
+  show_info: true
+---
+
 ## => Plugins
 ##############################
 plugins:
